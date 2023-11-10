@@ -1,6 +1,7 @@
 # CSEC380_Assignment5
 
 Intentionally vulnerable version of osTicket 1.12.
+https://www.exploit-db.com/exploits/47224
 
 Setup:
 ```
